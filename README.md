@@ -129,9 +129,9 @@ The aim is to extract actionable insights, identify trends, and communicate find
 ## 📫 Contact
 
 For questions or collaboration:
-**Your Name** — [[aksvbpl@gmail.com](mailto:aksvbpl@gmail.com)]
+**Aman Verma** — [[aksvbpl@gmail.com](mailto:aksvbpl@gmail.com)]
 **LinkedIn:** [[https://www.linkedin.com/in/aman-verma2002](https://www.linkedin.com/in/aman-verma2002/)]
-**GitHub:** [[github.com/yourusername](https://github.com/aman-verma02)]
+**GitHub:** [[https://github.com/aman-verma02/](https://github.com/aman-verma02)]
 
 ---
 
